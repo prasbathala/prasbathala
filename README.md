@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="prasbathala" /></p>
 
-
+</br>
 Connect with me:
 [<img align="left" alt="pbathala3@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
 [<img align="left" alt="shubhlohiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
