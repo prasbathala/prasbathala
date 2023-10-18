@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="prasbathala" /></p>
 
-</br>
-Connect with me:
-[<img align="left" alt="pbathala3@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="shubhlohiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prasanthbathala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:pbathala3@gatech.edu"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="pbathala@gatech.edu" height="30" width="40" />
+  </a>
+<a href="https://linkedin.com/in/prasanthbathala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="prasanthbathala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prasanth-bathala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="prasanth-bathala" height="30" width="40" /></a>
+  
+</p>
 
 
-[email]: mailto:pbathala3@gatech.edu
-[linkedin]: https://www.linkedin.com/in/prasanthbathala
