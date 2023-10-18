@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hello 👋, I'm Prasanth
 #### <span style="Helvetica">Unstoppable Learner</span>
 
-- 🔭 I’m currently working on **myself**
-- 💬 I'm interested in **Language Technologies, AI for Healthcare**
+- 🔭 I'm currently focused on exciting machine learning projects, especially in AI and natural language processing. I love using AI to solve real-world problems.
+- 💬 I am interested in Language Technologies, AI for Healthcare.
 
 <br/>
 
