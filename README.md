@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ### Hello 👋, I'm Prasanth
 ## Unstoppable Learner
 
+- 🔭 I’m currently working on **myself**
+- 💬 I'm interested in **Language Technologies, AI for Healthcare**
+
 <br/>
 
 <img align="center" alt="prasbathala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
