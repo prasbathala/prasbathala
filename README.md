@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" href = "blank">Hi 👋, I'm Prasanth</h1>
-<h3 align="center" href = "blank">Unstoppable learner</h3>
-
 ### Hello 👋, I'm Prasanth
 ## Unstoppable Learner
 
