@@ -19,23 +19,24 @@ Here are some ideas to get you started:
 <h1 align="center" href = "blank">Hi 👋, I'm Prasanth</h1>
 <h3 align="center" href = "blank">Unstoppable learner</h3>
 
-<!--
-- 🔭 I’m currently working on **myself**
-- 💬 I'm interested in **Language Technologies, AI for healthcare**
+### Hello 👋, I'm Prasanth
+## Unstoppable Learner
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:pbathala3@gatech.edu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="pbathala@gatech.edu" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/prasanthbathala" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="prasanthbathala" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/prasanth-bathala" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="prasanth-bathala" height="30" width="40" />
-  </a>
-</p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="prasbathala" /></p>
--->
+<img align="center" alt="prasbathala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
+
+<br/>
+
+Here's how to reach me:  
+
+[<img align="left" alt="pbathala3@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+[<img align="left" alt="lohiya-shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prasanth-bathala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][Leetcode]
+
+
+[email]: mailto:pbathala3@gatech.edu
+[linkedin]: https://www.linkedin.com/in/prasanthbathala
+[Leetcode]: https://www.leetcode.com/prasanth-bathala
+
 
