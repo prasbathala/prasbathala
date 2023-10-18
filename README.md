@@ -38,3 +38,8 @@ Connect with me:
 [Leetcode]: https://www.leetcode.com/prasanth-bathala
 
 
+
+<a href="mailto:pbathala3@gatech.edu" target="_blank"><img align="left" alt="pbathala3@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" /></a>
+<a href="https://www.linkedin.com/in/prasanthbathala" target="_blank"><img align="left" alt="prasanthbathala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.leetcode.com/prasanth-bathala" target="_blank"><img align="left" alt="prasanth-bathala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" /></a>
+
