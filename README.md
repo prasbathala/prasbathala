@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello 👋, I'm Prasanth
-#### Unstoppable Learner
+#### <span style="font-family: Arial, sans-serif;">Unstoppable</span>
 
 - 🔭 I’m currently working on **myself**
 - 💬 I'm interested in **Language Technologies, AI for Healthcare**
