@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Unstoppable learner</h3>
 
 - 🔭 I’m currently working on **myself**
-- 💬 I'm interested in **Language Technologies, AI for healthcare **
+- 💬 I'm interested in **Language Technologies, AI for healthcare**
 
 
 
