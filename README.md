@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-Here's how to reach me:  
+Connect with me:  
 
 [<img align="left" alt="pbathala3@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="lohiya-shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prasanthbathala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="prasanth-bathala | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][Leetcode]
 
 
