@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **myself**
 - 💬 I'm interested in **Language Technologies, AI for healthcare**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="prasbathala" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/prasanth-bathala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="prasanth-bathala" height="30" width="40" /></a>
   
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" alt="prasbathala" /></p>
 
 
