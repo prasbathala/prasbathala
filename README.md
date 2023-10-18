@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### <span style="Helvetica">Unstoppable Learner</span>
 
 - 🔭 I'm currently focused on exciting machine learning projects, especially in AI and natural language processing. I love using AI to solve real-world problems.
-- 💬 I am interested in Language Technologies, AI for Healthcare.
+- 💬 I am interested in **Language Technologies, AI for Healthcare**.
 
 <br/>
 
