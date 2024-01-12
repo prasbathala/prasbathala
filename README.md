@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### <span style="Helvetica">Unstoppable Learner</span>
 
 - 🔭 I'm currently working on **something cool with AI**
-- 💬 I am interested in **Language Technologies, AI for Healthcare**.
+- 💬 I am interested in **Language Technologies, Reinforcement Learning**.
 
 <br/>
 
