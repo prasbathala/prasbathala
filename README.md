@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on **something cool with AI**
 - 💬 I am interested in **Large Langauge Models, Vision Language Models, Reinforcement Learning**.
 
+<--
 <br/>
 
 <img align="center" alt="prasbathala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prasbathala&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
 
-<br/>
+<br/> --/>
 
 Connect with me:  
 
